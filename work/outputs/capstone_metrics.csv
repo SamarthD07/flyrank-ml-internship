@@ -1,1 +1,2 @@
-
+split,random_seed,train_clients,test_clients,train_rows,test_rows,model_mae,model_r2,top_k,baseline_top_k_mean_march_clicks,model_top_k_mean_march_clicks,top_k_overlap,top_k_overlap_rate,march_positive_click_rate
+client-held-out,42,40,10,241186,62386,3.1076,0.3455,100,16.51,122.85,0,0.0,0.3445
